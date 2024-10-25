@@ -19,7 +19,7 @@ Delete | **livros/{livroId}** | Apagar um livro salvo
 
 # Instruções para rodar o projeto
 1. Clonar o repositório
-2. Em uma linha de comando executar os comandos abaixo
+2. Em uma linha de comando executar os comandos abaixo dentro do diretório do repósitorio clona
 3. Executar o comando mvn clean
 4. Para executar o projeto mvn spring-boot:run
 5. [Clique aqui](http://localhost:8080/swagger-ui/index.html)
