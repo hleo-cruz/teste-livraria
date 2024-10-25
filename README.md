@@ -17,7 +17,7 @@ Post | **livros**           | Salvar um novo Livro
 Put | **livros/{livroId}** | Atualizar os dados de um livro salvo
 Delete | **livros/{livroId}** | Apagar um livro salvo
 
-# Instruções de rodar o projeto
+# Instruções para rodar o projeto
 1. Clonar o repositório
 2. Em uma linha de comando executar os comandos abaixo
 3. Executar o comando mvn clean
